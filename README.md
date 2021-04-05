@@ -1,5 +1,5 @@
 # rpj-remp-re-t
-Frist publish by Reqlax #6707 (617817077813608459)
+First publish by Reqlax #6707 (617817077813608459)
 
 Tested in:
 https://discord.com/channels/333949691962195969/805966924994314286/820400863750520853
